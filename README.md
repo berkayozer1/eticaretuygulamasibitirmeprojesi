@@ -2,3 +2,4 @@
 # bitirmeprojesi
 # siparisuygulama
 # siparisuygulama
+# eticaretuygulamasibitirmeprojesi
